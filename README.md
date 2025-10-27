@@ -42,13 +42,11 @@ I build clean, secure REST APIs with Django/DRF, focusing on query efficiency, E
 **Problem:** Products/discounts/carts with predictable latency.  
 **Solution:** Annotated queries, subqueries, ETag/304, strict serializers.  
 **Impact:** Stable performance & clear contracts.  
-**Repo:** TODO
 
 ### Notes API
 **Problem:** Personal notes with secure multi-user isolation.  
 **Solution:** SimpleJWT, per-user querysets, pagination & throttling, pytest.  
 **Impact:** Solid template for small SaaS utilities.  
-**Repo:** TODO
 
 ---
 
