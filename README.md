@@ -1,7 +1,7 @@
 <div align="center">
     
 # ✨ Sina Jokar: The Elite Backend Engineer ✨
-## S Backend Developer | Python - Django - DjangoDRF - FastAPI
+##  Backend Developer | Python - Django - DjangoDRF - FastAPI
 <img src="https://img.shields.io/badge/Location-Antalya%2C%20T%C3%BCrkiye%20%F0%9F%87%B9%F0%9F%87%B7-1abc9c?style=for-the-badge&logo=map&logoColor=white" alt="Location Badge"/>
 
 ***
