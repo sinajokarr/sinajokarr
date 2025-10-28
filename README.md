@@ -1,91 +1,72 @@
 <div align="center">
 <p align="center">
-  <img src="https://media.giphy.com/media/l4pT0S8hN7t62k7ks/giphy.gif" height="150" alt="Architect Gif"/>
+  <img src="https://media.giphy.com/media/l4pT0S8hN7t62k7ks/giphy.gif" height="150" alt="Backend Architect Gif"/>
 </p>
-<br>
+<hr style="border: 2px solid #0077B5; border-radius: 5px;">
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=sinajokarr&color=0077B5" alt="profile_views" />
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Role-Principal%20Backend%20Engineer-9b59b6?style=for-the-badge" alt="Role Badge"/>
-  <img src="https://img.shields.io/badge/Focus-Performance%20Engineering-ff69b4?style=for-the-badge" alt="Focus Badge"/>
-  <img src="https://img.shields.io/badge/Location-Antalya%2C%20TR-0077B5?style=for-the-badge&logo=map" alt="Location Badge"/>
-</p>
-<hr>
-
-<h1 align="center">Greetings 👋, I am Sina Jokar </h1>
-<h3 align="center">CTO Track | Architecting Low-Latency Services </h3>
+<h1 align="center">⚡ Sina Jokar | Principal Backend Architect ⚡</h1>
+<h3 align="center">CTO Track | Architecting Low-Latency & High-Availability Systems </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sinajokar/" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:cnajokar11@yahoo.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/305886/mail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://github.com/sinajokarr/Portfolio.git" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Portfolio" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/Focus-Performance%20Engineering-FF69B4?style=for-the-badge&logo=fastapi" alt="Focus Badge"/>
+<img src="https://img.shields.io/badge/Location-Antalya%2C%20TR-0077B5?style=for-the-badge&logo=map" alt="Location Badge"/>
+<img src="https://komarev.com/ghpvc/?username=sinajokarr&color=0077B5&style=for-the-badge" alt="profile_views" />
 </p>
 
 <p align="center">
-  <em>
-    My architecture is rooted in **minimizing latency (Sub-100ms p95)** and maximizing security from the first commit. <br>
-    I am a **data-driven Problem Solver** 💡 and a **Backend System Designer** 🛠️, specialized in scalable Python/Django solutions.
-  </em> 
-  <br>
-  🧠 <b><i align="center">Manifesto : "Clean code is a prerequisite, but performance is the deliverable.”</i></b> 🧠
+<a href="https://www.linkedin.com/in/sinajokar/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Link"/></a>
+<a href="mailto:cnajokar11@yahoo.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email Link"/></a>
 </p>
 
-<hr>
-<br>
+> 🧠 **The Architect's Manifesto:** My philosophy is rooted in one deliverable: **performance**. Clean code is merely the prerequisite. My goal is to transform raw performance metrics into secure, scalable Python/Django solutions, proactively minimizing technical debt.
 
-<div align="center">
-<img align="right" width="200px" height="200px" alt="side_sticker" src="https://media.giphy.com/media/RkE7j41m2Q47m/giphy.gif" />
+<hr style="border: 1px solid #FF69B4;">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About my Architecture....***
+## 📊 Technical Mastery: The Performance Dashboard
 
-* [cite_start]Focus: **Latency Reduction (p95)** and **N+1 Elimination**[cite: 7].
-* [cite_start]Currently diving deep into **Microservices** (FastAPI/Kafka) for large-scale decoupled systems[cite: 8].
-* [cite_start]**Quality Gate:** I enforce **95% Pytest Coverage** on all core logic[cite: 37].
-* Ask me anything about ORM optimization or object-level permissions! [cite_start]😉 [cite: 27, 18]
+[cite_start]This section showcases my engineering commitments and quantifiable impact[cite: 7, 37].
 
-</div>
-<br clear="right"/> 
-<hr>
-
-### 🛠️ The Master Backend Stack...
-<div align="center">
-<p align="center">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" alt="DRF Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/docker-2.svg" alt="Docker Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="GitHub Actions Badge">
-  <img height="50" src="https://cdn.worldvectorlogo.com/logos/pytest.svg" alt="Pytest Badge">
-</p>
-</div>
-
-<hr>
-
-### 🏆 Quantified Engineering Commitments (The Performance Dashboard)
-
-| Metric | Goal/Achievement | Key Technology |
+| **Challenge Focus** | **Quantified Solution** | **Key Technologies** |
 | :--- | :--- | :--- |
-| **Latency Reduction** | [cite_start]**Sub-100ms** p95 API response time [cite: 7] | [cite_start]ETag/304 Caching, ORM Annotations [cite: 33] |
-| **Code Reliability** | [cite_start]**95% Pytest Coverage** on core logic [cite: 37] | [cite_start]CI-First Mindset, GitHub Actions [cite: 32] |
-| **Database Efficiency** | **Elimination of N+1** query patterns | [cite_start]`select_related`/`prefetch_related` [cite: 33] |
-| **Security Standard** | [cite_start]Fine-grained **RBAC/ABAC** [cite: 34] | [cite_start]JWT Authentication, Custom Permissions [cite: 18] |
+| **Latency Reduction** | [cite_start]Reduced p95 latency to **sub-100ms** on critical APIs[cite: 7]. | ETag/304 Caching, ORM Annotations |
+| **Code Reliability** | [cite_start]Enforced **95% Pytest Coverage** on all core logic[cite: 37]. | [cite_start]CI-First Pipelines, Unit & Integration Testing [cite: 20] |
+| **Data Efficiency** | [cite_start]Eliminated **N+1 Query Patterns** using prefetching/related selects[cite: 33]. | [cite_start]PostgreSQL, Django ORM Optimization [cite: 27] |
+| **Access Control** | [cite_start]Built secure endpoints with fine-grained **RBAC/ABAC**[cite: 34]. | [cite_start]JWT/OAuth2, Custom Permissions [cite: 18] |
 
-<hr>
+<hr style="border: 1px solid #FF69B4;">
 
-### 💻 My Production Impact (Projects)
+## 🛠️ The Scalable Backend Toolkit
 
-* [cite_start]🏆 **Real-Estate Platform:** Achieved **70% reduction in query time** via indexed slugs and ORM optimization[cite: 39].
-* [cite_start]🏆 **Store API (E-commerce):** Maintained **sub-100ms latency** under load using ETag/304 Caching and atomic updates[cite: 7, 33].
-* [cite_start]🏆 **Notes API (SaaS):** Delivered **95% test coverage** using comprehensive `pytest` suites[cite: 37].
+An organized view of the production stack I master.
 
-<hr>
+| **Core Backend & Data** | **CI/CD, Containers & Cloud** |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions Badge"> |
+| <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"> | <img src="https://img.shields.io/badge/AWS%20Basics-232F3E?style=for-the-badge&logo=amazon-aws" alt="AWS Badge"> <img src="https://img.shields.io/badge/Microservices%20Concepts-000000?style=for-the-badge&logo=kubernetes" alt="Microservices Badge"> |
 
-### 📊 Dynamic Activity & Metrics
+<hr style="border: 1px solid #FF69B4;">
+
+## 💡 Project Impact Narratives
+
+Deep dives into projects, focusing on the technical challenges solved and the measurable outcome.
+
+### 🏆 1. E-commerce Store API (Django + DRF)
+* **Challenge:** Inconsistent latency for cart and product operations under load.
+* [cite_start]**Impact:** Maintained **sub-100ms API response latency** under pressure using ETag/304 caching and atomic updates (F expressions)[cite: 7, 33].
+* [cite_start]**Repo:** [View Project](https://github.com/sinajokarr/django-realestate-platform) (Placeholder for your E-commerce project) [cite: 24]
+
+### 🏠 2. Real-Estate Blog & CMS
+* **Challenge:** Slow page loads due to inefficient database querying on category pages.
+* [cite_start]**Impact:** Achieved **70% reduction in average query time** by implementing advanced query prefetching[cite: 39]. [cite_start]Delivered scalable REST endpoints[cite: 40].
+* [cite_start]**Repo:** [View Project](https://github.com/sinajokarr/django-realestate-platform) [cite: 38]
+
+### 🗒️ 3. Notes API (SaaS Utility)
+* **Challenge:** Need secure, isolated, and highly tested personal notes storage.
+* [cite_start]**Impact:** Delivered **95% test coverage** for core application logic using comprehensive `pytest` suites and implemented a CI/CD pipeline[cite: 37].
+
+<hr style="border: 1px solid #FF69B4;">
+
+## 📈 Dynamic Activity & Visual Metrics
 
 <div align="center">
     
@@ -95,17 +76,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinajokarr&layout=compact&theme=dark&hide_border=true)
 
 </div>
-
-<hr>
-
-### 🗺️ The Future Roadmap (The Vision)
-
-<details>
-<summary>⚡ **Click to view my Q4 2025 Development Roadmap & Current Focus**</summary>
-<br/>
-<p>I maintain an aggressive learning pipeline to ensure future-proof architecture:</p>
-
-* **Current Deep Dive:** Advanced throttling techniques, complex custom permission systems, and granular caching mechanisms *(WIP)*.
-* [cite_start]**Future Exploration:** Actively planning and diving deep into **Microservices architecture with FastAPI** and exploring distributed messaging systems like **Kafka** for high-throughput, decoupled services[cite: 30].
-
-</details>
